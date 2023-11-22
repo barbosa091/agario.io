@@ -1,5 +1,5 @@
 body {
-    background: #c4f6ff;
+    background: #f8c4ff;
 }
 h1 {
     text-align: center;
@@ -8,5 +8,5 @@ p{
     text-align: center;
 }
 em strong {
-    color: rgb(130, 168, 238);
+    color: rgb(238, 130, 130);
 }
